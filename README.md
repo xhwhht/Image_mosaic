@@ -1,1 +1,1 @@
-# Image_mosaic
+# 基于SIFT特征提取的图像拼接
