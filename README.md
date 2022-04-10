@@ -6,3 +6,5 @@
 # 参考程序：  
 图像融合程序：https://blog.csdn.net/juebai123/article/details/79671790  
 SIFT特征提取程序：https://ww2.mathworks.cn/matlabcentral/fileexchange/30849-image-mosaic-using-sift
+### :warning:版权协议说明：
+共分为俩部分：第一部分为原作者协议， 第二部分为本人二次修改分发后所加入。
